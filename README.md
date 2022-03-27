@@ -1,5 +1,5 @@
 # Distributed-Messaging-System
-==========================================
+
 COMP90015 Project 1 Group 1984
 
 Group Members:
