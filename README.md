@@ -1,4 +1,4 @@
-# Distributed-Messaging-System
+# Message Broadcaster
 
 COMP90015 Project 1 Group 1984
 
