@@ -26,7 +26,7 @@ Implemented distributed messaging system in a client-server architecture, and ut
 
 ## Architecture Diagram
 <p align="center">
-    <img src="./images/architecture_diagram.png" alt="drawing" width="300"/>
+    <img src="./images/architecture_diagram.png" alt="drawing" width="400"/>
 </p> 
 
 ## How to run the project
